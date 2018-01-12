@@ -23,7 +23,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   ***JavaScript for Swift Developers***  
   [🖼 Slides](https://speakerdeck.com/marius/javascript-for-swift-developers)
   [📼 Video](https://www.youtube.com/watch?v=24p3R9HgXUc)  
-  `iOS, Swift, JavaScript`
+  `iOS`, `Swift`, `JavaScript`
 
 - March 2nd, 2017 in _Tokyo, Japan 🇯🇵_
   [**trySwift '17**](https://www.tryswift.co/) -
@@ -118,7 +118,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   [**CocoaHeads Kraków #16**](http://www.meetup.com/de-DE/CocoaHeads-Krakow/events/220431190/?eventId=220431190) -
   ***Swift?! Alternatives to Optionals***  
   [🖼 Slides](https://speakerdeck.com/marius/swift-alternatives-to-optionals)  
-  `iOS`, `Swift`, `Functional Programming`
+  `iOS`, `Swift`, `Functional Programming`
 
 - February 6th, 2015 in _Paris, France 🇫🇷_  
   [**dotSwift 2015**](http://2015.dotswift.io) -
