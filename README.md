@@ -1,6 +1,6 @@
 # Talks
 
-This is a list of talks I've given over the years on conferences and meetups.
+This is a list of talks I've given over the years at conferences and meetups.
 
 
 ## 2018
@@ -23,7 +23,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   ***JavaScript for Swift Developers***  
   [🖼 Slides](https://speakerdeck.com/marius/javascript-for-swift-developers)
   [📼 Video](https://www.youtube.com/watch?v=24p3R9HgXUc)  
-  `[iOS, Swift, JavaScript]`
+  `iOS`, `Swift`, `JavaScript`
 
 - March 2nd, 2017 in _Tokyo, Japan 🇯🇵_
   [**trySwift '17**](https://www.tryswift.co/) -
@@ -73,7 +73,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
 
 ## 2015
 
-- November, 17th in _Moscow, Russia 🇷🇺_  
+- November 17th, 2015 in _Moscow, Russia 🇷🇺_  
   [**MBLTDev 2015**](https://2015.mbltdev.ru) -
   ***Challenges Building a Swift Framework***  
   [🖼 Slides](http://www.slideshare.net/elegion/mbltdev15-marius-racwitz-realm)
@@ -94,7 +94,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   [👬 together with **@orta**](https://twitter.com/orta)  
   `iOS`, `Swift`, `CocoaPods`, `Build System`
 
-- June 27th, 2015 in _Prague, Czech 🇨🇿_  
+- June 27th, 2015 in _Prague, Czech Republic 🇨🇿_  
   [**mDevCamp 2015**](http://mdevcamp.cz/2015/) -
   ***CocoaPods: Future Directions***  
   [🖼📼 Slides + Video](http://slideslive.com/38894154/cocoapods-future-directions)  
@@ -118,7 +118,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   [**CocoaHeads Kraków #16**](http://www.meetup.com/de-DE/CocoaHeads-Krakow/events/220431190/?eventId=220431190) -
   ***Swift?! Alternatives to Optionals***  
   [🖼 Slides](https://speakerdeck.com/marius/swift-alternatives-to-optionals)  
-  `iOS`, `Swift`, `Functional Programming`
+  `iOS`, `Swift`, `Functional Programming`
 
 - February 6th, 2015 in _Paris, France 🇫🇷_  
   [**dotSwift 2015**](http://2015.dotswift.io) -
@@ -132,7 +132,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
 
 ## 2014
 
-* December 20th in _Minsk, Belarus 🇷🇺_  
+* December 20th, 2014 in _Minsk, Belarus 🇷🇺_  
   [**CocoaHeads Swift Christmas gathering**](https://events.dev.by/78731) -
   ***CocoaPods: Pioneering Swift***  
   [🖼 Slides](https://speakerdeck.com/marius/cocoapods-pioneering-swift)  
