@@ -18,14 +18,14 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   [📼 Video](https://engineers.sg/video/diy-smarthome-ios-conf-sg-2017--2068)  
   `iOS`, `Swift`, `HomeKit`, `IoT`, `RasperryPi`, `Arduino`
 
-- May 13th, 2017 in _Shenzhen, China 🇨🇳_
+- May 13th, 2017 in _Shenzhen, China 🇨🇳_  
   [**atSwift '17**](https://www.bagevent.com/event/457119) -
   ***JavaScript for Swift Developers***  
   [🖼 Slides](https://speakerdeck.com/marius/javascript-for-swift-developers)
   [📼 Video](https://www.youtube.com/watch?v=24p3R9HgXUc)  
   `iOS`, `Swift`, `JavaScript`
 
-- March 2nd, 2017 in _Tokyo, Japan 🇯🇵_
+- March 2nd, 2017 in _Tokyo, Japan 🇯🇵_  
   [**trySwift '17**](https://www.tryswift.co/) -
   ***Craft Collaborative Apps with Realm***  
   [🖼 Slides in 🇯🇵 JP + 🇺🇸 EN](https://speakerdeck.com/marius/craft-collaborative-apps-with-realm-jp-plus-en)
