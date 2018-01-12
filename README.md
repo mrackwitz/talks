@@ -73,7 +73,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
 
 ## 2015
 
-- November, 17th in _Moscow, Russia 🇷🇺_  
+- November 17th, 2015 in _Moscow, Russia 🇷🇺_  
   [**MBLTDev 2015**](https://2015.mbltdev.ru) -
   ***Challenges Building a Swift Framework***  
   [🖼 Slides](http://www.slideshare.net/elegion/mbltdev15-marius-racwitz-realm)
@@ -94,7 +94,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   [👬 together with **@orta**](https://twitter.com/orta)  
   `iOS`, `Swift`, `CocoaPods`, `Build System`
 
-- June 27th, 2015 in _Prague, Czech 🇨🇿_  
+- June 27th, 2015 in _Prague, Czech Republic 🇨🇿_  
   [**mDevCamp 2015**](http://mdevcamp.cz/2015/) -
   ***CocoaPods: Future Directions***  
   [🖼📼 Slides + Video](http://slideslive.com/38894154/cocoapods-future-directions)  
@@ -132,7 +132,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
 
 ## 2014
 
-* December 20th in _Minsk, Belarus 🇷🇺_  
+* December 20th, 2014 in _Minsk, Belarus 🇷🇺_  
   [**CocoaHeads Swift Christmas gathering**](https://events.dev.by/78731) -
   ***CocoaPods: Pioneering Swift***  
   [🖼 Slides](https://speakerdeck.com/marius/cocoapods-pioneering-swift)  
