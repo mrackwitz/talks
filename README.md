@@ -43,7 +43,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   `iOS`, `Swift`, `Realm`, `Databases`
 
 - September 23rd - 24th, 2016 in _Paris, France 🇫🇷_  
-  [**FrenchKit**](http://frenchkit.fr/2016-edition/) 
+  [**FrenchKit**](http://frenchkit.fr/2016-edition/) -
   ***Reactive Programming with Realm***  
   👨🏼‍🏫 Classroom  
   [🐙 Code](https://github.com/mrackwitz/Inboxly)  
