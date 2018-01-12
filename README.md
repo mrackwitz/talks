@@ -1,6 +1,6 @@
 # Talks
 
-This is a list of talks I've given over the years on conferences and meetups.
+This is a list of talks I've given over the years at conferences and meetups.
 
 
 ## 2018
@@ -23,7 +23,7 @@ Nothing scheduled so far. [Reach out!](mailto:git@mariusrackwitz.de) [🐦](http
   ***JavaScript for Swift Developers***  
   [🖼 Slides](https://speakerdeck.com/marius/javascript-for-swift-developers)
   [📼 Video](https://www.youtube.com/watch?v=24p3R9HgXUc)  
-  `[iOS, Swift, JavaScript]`
+  `iOS, Swift, JavaScript`
 
 - March 2nd, 2017 in _Tokyo, Japan 🇯🇵_
   [**trySwift '17**](https://www.tryswift.co/) -
